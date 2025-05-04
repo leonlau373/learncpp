@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1746363475 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\quiz\quiz_1\io.cpp
+	<iostream>
+
+1746363489 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\quiz\quiz_1\main.cpp
+	<iostream>
+	"io.h"
+
+1746363451 c:\users\leonf\documents\c++study\learncpp\chapter 02\quiz\quiz_1\io.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746360428 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\12_headerguards\tutorial_headerguards\main.cpp
+	"square.h"
+	<iostream>
+
+1746360335 c:\users\leonf\documents\c++study\learncpp\chapter 02\12_headerguards\tutorial_headerguards\square.h
+

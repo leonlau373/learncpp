@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745076344 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\08_programswithmultiplefiles\tutorial\function.cpp
+
+1745076563 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\08_programswithmultiplefiles\tutorial\main.cpp
+	<iostream>
+

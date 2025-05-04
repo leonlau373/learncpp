@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746356361 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\11_headerfiles\tutorial_headerfiles\add.cpp
+
+1746356398 source:c:\users\leonf\documents\c++study\learncpp\chapter 02\11_headerfiles\tutorial_headerfiles\main.cpp
+	"add.h"
+	<iostream>
+
+1746356362 c:\users\leonf\documents\c++study\learncpp\chapter 02\11_headerfiles\tutorial_headerfiles\add.h
+
